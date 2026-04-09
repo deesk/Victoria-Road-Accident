@@ -46,10 +46,6 @@ Utilize the analysis to understand accident risk factors.
 Apply the recommendations to plan safety measures tailored to specific times and locations.
 Explore the interactive dashboard for deeper insights and real-time data visualization.
 
-
-## 🚀 About Me
-I am a passionate Data Analyst with a strong focus on uncovering insights through data manipulation, analysis, and reporting. With hands-on experience using tools like Excel, SQL, Tableau, and Python, I have successfully transformed complex datasets into actionable insights to support strategic decision-making. My expertise lies in creating dynamic dashboards, performing trend analysis, and improving operational efficiency through data-driven solutions. I am always eager to apply my analytical skills to meaningful projects that make a tangible impact.
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandeshkrk)
 [![Github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/deesk)
